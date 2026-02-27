@@ -1,12 +1,16 @@
-# Fuck OpusClip.
+# SupoClip
+
+A fork of the original [SupoClip](https://github.com/your-org/supoclip) open source project with additional code to integrate it into personal workflows.
 
 ... because good video clips shouldn't cost a fortune or come with ugly watermarks.
 
-OpusClip charges $15-29/month and slaps watermarks on every free video. SupoClip gives you the same AI-powered video clipping capabilities - completely free, completely open source, and completely watermark-free, while still providing you with a hosted version, that doesn't cost the same amount as your mortgage.
+This is a personal fork with additional code to integrate it into my own workflows. The original SupoClip gives you the same AI-powered video clipping capabilities - completely free, completely open source, and completely watermark-free.
 
 > For the hosted version, sign up for the waitlist here: [SupoClip Hosted](https://supoclip.vercel.app)
 
-## Why SupoClip Exists
+## This Fork
+
+This fork adds additional code to integrate SupoClip into personal workflows.
 
 ### The OpusClip Problem
 
